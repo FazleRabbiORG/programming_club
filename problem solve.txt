@@ -1,6 +1,5 @@
 hanker rank 
 hacker earth
 code studio
- leet code
- code
+leet code
 codeforce

@@ -1,0 +1,1 @@
+#first nth number sum
